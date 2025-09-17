@@ -16,6 +16,4 @@ void loop() {
         digitalWrite(leds[i], i < count ? HIGH : LOW);
     }
   }
-  // put your main code here, to run repeatedly:
-
 }
